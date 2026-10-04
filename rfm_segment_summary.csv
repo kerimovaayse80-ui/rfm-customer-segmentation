@@ -1,0 +1,6 @@
+﻿segment,customer_count,avg_recency,avg_frequency,avg_monetary,marketing_strategy
+Champions,9,19.44,8.11,290097.74,"VIP rewards, exclusive offers, early access, and premium loyalty benefits"
+Loyal,17,110.29,3.59,132894.92,"Loyalty program, personalized offers, cross-selling, and repeat-purchase incentives"
+Needs Attention,54,191.65,2.76,82289.34,"Personalized discounts, product recommendations, reminder campaigns, and engagement offers"
+At Risk,1,456,3,142874.25,"Urgent win-back campaign, special discount, personalized email, and limited-time incentive"
+Lost,11,360.45,1.91,52366.99,"Reactivation campaign, strong comeback offer, personalized email, and targeted promotions"
